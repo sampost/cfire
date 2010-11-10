@@ -1,0 +1,7 @@
+CFIRE - a retro console app to generate fire
+
+Uses the Linux framebuffer device via mmap to directly draw to the frame buffer. Repeatedly creates a rolling flame effect until a key is pressed.
+
+This is a throwback to my teenage years when "asm fires" were really cool, and you could only get a flame effect via hand-crafted assembly because any other language was too slow.
+
+This program is licensed under the GPLv2
